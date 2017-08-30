@@ -12,8 +12,9 @@ Constraints
 
 Your solution should accept an input file (input.txt) with the following contents: 
 
- Line 1: Two integers, N and K.
- Line 2: N positive integers of average home sale price, each less than 1,000,000.
+Line 1: Two integers, N and K.
+
+Line 2: N positive integers of average home sale price, each less than 1,000,000.
 Output Format
 
 Your solution should output one integer for each window’s result, with each integer on a separate line, to an output file or to the console.
@@ -21,12 +22,15 @@ Your solution should output one integer for each window’s result, with each in
 ## Sample Input
 
 5 3
+
 188930 194123 201345 154243 154243
 
 ## Sample Output
 
 3
+
 0
+
 -1
 
 ## Explanation
