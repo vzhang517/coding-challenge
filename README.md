@@ -39,6 +39,8 @@ Your solution should run in less than 30 seconds and use less than 50MB of memor
 
 ## Starting the Application
 
+Node.js must be installed
+
 To start, run
 ```
 node challenge.js
